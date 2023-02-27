@@ -1,11 +1,10 @@
 package Com.BridgeLabs;
 
 public class Ride {
-    public class Ride {
-        public final int time;
-        public double distance;
-        public Ride(double distance, int time){
-            this.distance = distance;
-            this.time = time;
+    public final int time;
+    public double distance;
+    public Ride(double distance, int time){
+        this.distance = distance;
+        this.time = time;
         }
 }
